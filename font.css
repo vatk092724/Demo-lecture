@@ -1,0 +1,563 @@
+.container1{
+    align-items: center ;
+    height:900px ;
+    display: inline-block;
+    background-color: bisque;
+    
+
+}
+.container{padding:1;
+border:1px solid ;
+text-shadow: none;
+background-attachment: fixed;
+background-color: black;
+
+
+}
+
+
+
+
+.box1{background-color: #d38146;
+width:110px ;
+height:110px ;
+display: inline-block;
+
+
+}
+.box2{background-color:bisque;
+    width:110px ;
+    height:110px ;
+           
+}
+
+.box4{background-color:bisque ;
+        width:110px ;
+        height:110px ;
+        border:1px solid black ;
+    }
+.box3{background-color: #d38146;
+    width:110px ;
+    height:110px ;
+    border:1px solid black ;
+    
+    }   
+
+.box5{
+    background-color:#d38146;
+    width:110px ;
+    height:110px ;
+    border:1px solid black ;
+}
+.box6{background-color:bisque ;
+    width:110px ;
+    height:110px;}
+.box7{background-color: #d38146;
+      width:110px ;
+      height:110px ;
+    }   
+.box8{background-color:bisque ;
+    width:110px ;
+    height:110px;}   
+.box9{background-color:bisque;
+    width:110px ;
+    height:110px ;
+    border:0.5 solid black ;
+    display:inline-block;
+}     
+
+.container2{
+    
+    height:900px ;
+    display: inline-block;
+    background-color: bisque;
+    
+
+}
+
+
+
+
+
+.box11{background-color:bisque ;
+width:110px ;
+height:110px ;
+border:0.5px solid black ;
+
+
+
+
+}
+.box22{background-color:#d38146;
+    width:110px ;
+    height:110px ;
+    border:0.5 solid black ;           
+}
+
+.box33{background-color:bisque ;
+        width:110px ;
+        height:110px ;
+        border:0.5px solid black ;
+    }
+.box44{background-color: #d38146;
+    width:110px ;
+    height:110px ;
+    border:0.5px solid black ;
+    
+    }   
+
+.box55{
+    background-color:bisque;
+    width:112px ;
+    height:110px ;
+    border:0.5px solid black ;
+}
+.box66{background-color:#d38146 ;
+    width:112px ;
+    height:110px;}
+.box77{background-color:bisque;
+      width:112px ;
+      height:110px ;
+    }   
+.box88{background-color:#d38146 ;
+    width:112px ;
+    height:110px;}   
+.box9{background-color:bisque;
+    width:112px ;
+    height:110px ;
+    border:0.5 solid black ;
+    display:inline-block;
+}     
+
+
+
+.container2{
+    
+    height:900px ;
+    display: inline-block;
+    margin:collapse ;
+    margin-left:2px ;
+    background-color: bisque;
+    
+
+}
+
+
+
+
+
+.box11{background-color:bisque ;
+width:110px ;
+height:110px ;
+border:0.5px solid black ;
+
+
+}
+.box22{background-color:#d38146;
+    width:110px ;
+    height:110px ;
+    border:0.5 solid black ;           
+}
+
+.box33{background-color:bisque ;
+        width:110px ;
+        height:110px ;
+        border:0.5px solid black ;
+    }
+.box44{background-color: #d38146;
+    width:110px ;
+    height:110px ;
+    border:0.5px solid black ;
+    
+    }   
+
+.box55{
+    background-color:bisque;
+    width:112px ;
+    height:110px ;
+    border:0.5px solid black ;
+}
+.box66{background-color:#d38146 ;
+    width:112px ;
+    height:110px;}
+.box77{background-color:bisque;
+      width:112px ;
+      height:110px ;
+    }   
+.box88{background-color:#d38146 ;
+    width:112px ;
+    height:110px;}   
+.box9{background-color:bisque;
+    width:112px ;
+    height:110px ;
+    border:0.5 solid black ;
+    display:inline-block;
+}   
+
+
+.container3{
+    
+    height:900px ;
+    display: inline-block;
+    margin:collapse ;
+    margin-left:2px ;
+    background-color: bisque;
+    
+
+}
+
+
+.box111{background-color:#d38146  ;
+    width:110px ;
+    height:110px ;
+    border:0.5px solid black ;
+    
+    
+    }
+    .box222{background-color:bisque;
+        width:110px ;
+        height:110px ;
+        border:0.5 solid black ;           
+    }
+    
+    .box333{background-color:#d38146  ;
+            width:110px ;
+            height:110px ;
+            border:0.5px solid black ;
+        }
+    .box444{background-color:bisque;
+        width:110px ;
+        height:110px ;
+        border:0.5px solid black ;
+        
+        }   
+    
+    .box555{
+        background-color:#d38146 ;
+        width:112px ;
+        height:110px ;
+        border:0.5px solid black ;
+    }
+    .box666{background-color:bisque ;
+        width:112px ;
+        height:110px;}
+    .box777{background-color:#d38146 ;
+          width:112px ;
+          height:110px ;
+        }   
+    .box888{background-color:bisque ;
+        width:112px ;
+        height:110px;}   
+    .box999{background-color:#d38146 ;
+        width:112px ;
+        height:110px ;
+        border:0.5 solid black ;
+        display:inline-block;
+    }   
+
+    .container4{
+            
+    height:900px ;
+    display: inline-block;
+    margin:collapse ;
+    margin-left:2px ;
+    background-color: bisque;
+
+    }
+
+    
+.box1111{background-color:bisque ;
+    width:110px ;
+    height:110px ;
+    border:0.5px solid black ;
+    
+    
+    }
+    .box2222{background-color:#d38146 ;
+        width:110px ;
+        height:110px ;
+        border:0.5 solid black ;           
+    }
+    
+    .box3333{background-color:bisque  ;
+            width:110px ;
+            height:110px ;
+            border:0.5px solid black ;
+        }
+    .box4444{background-color:#d38146 ;
+        width:110px ;
+        height:110px ;
+        border:0.5px solid black ;
+        
+        }   
+    
+    .box5555{
+        background-color:bisque ;
+        width:112px ;
+        height:110px ;
+        border:0.5px solid black ;
+    }
+    .box6666{background-color:#d38146  ;
+        width:112px ;
+        height:110px;}
+    .box7777{background-color:bisque ;
+          width:112px ;
+          height:110px ;
+        }   
+    .box8888{background-color:#d38146 ;
+        width:112px ;
+        height:110px;}   
+    .box9999{background-color:bisque ;
+        width:112px ;
+        height:110px ;
+        border:0.5 solid black ;
+        display:inline-block;
+    }   
+
+    .container5{ height:900px ;
+        display: inline-block;
+        margin:collapse ;
+        margin-left:2px ;
+        background-color: bisque;
+
+    }
+    
+.box11111{background-color:#d38146  ;
+    width:110px ;
+    height:110px ;
+    border:0.5px solid black ;
+    
+    
+    }
+    .box22222{background-color:bisque;
+        width:110px ;
+        height:110px ;
+        border:0.5 solid black ;           
+    }
+    
+    .box33333{background-color:#d38146  ;
+            width:110px ;
+            height:110px ;
+            border:0.5px solid black ;
+        }
+    .box44444{background-color:bisque;
+        width:110px ;
+        height:110px ;
+        border:0.5px solid black ;
+        
+        }   
+    
+    .box55555{
+        background-color:#d38146 ;
+        width:112px ;
+        height:110px ;
+        border:0.5px solid black ;
+    }
+    .box66666{background-color:bisque ;
+        width:112px ;
+        height:110px;}
+    .box77777{background-color:#d38146 ;
+          width:112px ;
+          height:110px ;
+        }   
+    .box88888{background-color:bisque ;
+        width:112px ;
+        height:110px;}   
+    .box99999{background-color:#d38146 ;
+        width:112px ;
+        height:110px ;
+        border:0.5 solid black ;
+        display:inline-block;
+    }   
+
+    .container6{
+            
+        height:900px ;
+        display: inline-block;
+        margin:collapse ;
+        margin-left:2px ;
+        background-color: bisque;
+    
+        }
+    
+        
+    .box111111{background-color:bisque ;
+        width:110px ;
+        height:110px ;
+        border:0.5px solid black ;
+        
+        
+        }
+        .box222222{background-color:#d38146 ;
+            width:110px ;
+            height:110px ;
+            border:0.5 solid black ;           
+        }
+        
+        .box333333{background-color:bisque  ;
+                width:110px ;
+                height:110px ;
+                border:0.5px solid black ;
+            }
+        .box444444{background-color:#d38146 ;
+            width:110px ;
+            height:110px ;
+            border:0.5px solid black ;
+            
+            }   
+        
+        .box555555{
+            background-color:bisque ;
+            width:112px ;
+            height:110px ;
+            border:0.5px solid black ;
+        }
+        .box666666{background-color:#d38146  ;
+            width:112px ;
+            height:110px;}
+        .box777777{background-color:bisque ;
+              width:112px ;
+              height:110px ;
+            }   
+        .box888888{background-color:#d38146 ;
+            width:112px ;
+            height:110px;}   
+        .box999999{background-color:bisque ;
+            width:112px ;
+            height:110px ;
+            border:0.5 solid black ;
+            display:inline-block;
+        }   
+
+
+        .container7{
+            
+            height:900px ;
+            display: inline-block;
+            margin:collapse ;
+            margin-left:2px ;
+            background-color: bisque;
+        
+            }
+
+    
+            
+        .box1111111{background-color:#d38146  ;
+            width:110px ;
+            height:110px ;
+            border:0.5px solid black ;
+            
+            
+            }
+            .box2222222{background-color:bisque;
+                width:110px ;
+                height:110px ;
+                border:0.5 solid black ;           
+            }
+            
+            .box3333333{background-color:#d38146  ;
+                    width:110px ;
+                    height:110px ;
+                    border:0.5px solid black ;
+                }
+            .box4444444{background-color:bisque;
+                width:110px ;
+                height:110px ;
+                border:0.5px solid black ;
+                
+                }   
+            
+            .box5555555{
+                background-color:#d38146 ;
+                width:112px ;
+                height:110px ;
+                border:0.5px solid black ;
+            }
+            .box6666666{background-color:bisque ;
+                width:112px ;
+                height:110px;}
+            .box7777777{background-color:#d38146 ;
+                  width:112px ;
+                  height:110px ;
+                }   
+            .box8888888{background-color:bisque ;
+                width:112px ;
+                height:110px;}   
+            .box9999999{background-color:#d38146 ;
+                width:112px ;
+                height:110px ;
+                border:0.5 solid black ;
+                display:inline-block;
+            }   
+
+            .container8{ height:900px ;
+                display: inline-block;
+                margin:collapse ;
+                margin-left:2px ;
+                background-color: bisque;
+        
+            }
+
+            .box11111111{background-color:bisque ;
+                width:110px ;
+                height:110px ;
+                border:0.5px solid black ;
+                
+                
+                }
+                .box22222222{background-color:#d38146 ;
+                    width:110px ;
+                    height:110px ;
+                    border:0.5 solid black ;           
+                }
+                
+                .box33333333{background-color:bisque  ;
+                        width:110px ;
+                        height:110px ;
+                        border:0.5px solid black ;
+                    }
+                .box44444444{background-color:#d38146 ;
+                    width:110px ;
+                    height:110px ;
+                    border:0.5px solid black ;
+                    
+                    }   
+                
+                .box55555555{
+                    background-color:bisque ;
+                    width:112px ;
+                    height:110px ;
+                    border:0.5px solid black ;
+                }
+                .box66666666{background-color:#d38146  ;
+                    width:112px ;
+                    height:110px;}
+                .box77777777{background-color:bisque ;
+                      width:112px ;
+                      height:110px ;
+                    }   
+                .box88888888{background-color:#d38146 ;
+                    width:112px ;
+                    height:110px;}   
+                .box99999999{background-color:bisque ;
+                    width:112px ;
+                    height:110px ;
+                    border:0.5 solid black ;
+                    display:inline-block;
+                }   
+        
+
+
+
+
+    
+    
+
+ 
+    
+
+
+
+
+
+    
